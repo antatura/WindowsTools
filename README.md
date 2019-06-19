@@ -60,9 +60,9 @@ https://www.axialis.com/iconworkshop/
 
 [简体中文语言包-ResChs.7z](https://github.com/antatura/WindowsTools/blob/master/Tools/ResChs.7z)
 
-> 名称: ResChs.7z
-> 大小: 461654 字节 (450 KiB)
-> SHA256: 8CF6DBA587ED8A84C1CE9B28FDECD08237372990B8EA1B3CA1F27530FDF9CCB5
+> 名称: ResChs.7z   
+> 大小: 461654 字节 (450 KiB)   
+> SHA256: 8CF6DBA587ED8A84C1CE9B28FDECD08237372990B8EA1B3CA1F27530FDF9CCB5   
 
 ## **IP雷达**
 
@@ -72,9 +72,9 @@ http://www.ipneed.com/
 
 [IPRadar5.zip](https://github.com/antatura/WindowsTools/blob/master/Tools/IPRadar5.zip)
 
-> 名称: IPRadar5.zip
-> 大小: 5461899 字节 (5333 KiB)
-> SHA256: BC130D60AE9EB413C254F145B64A38BF8A6B22D24189DD50B8BE7ABA682BB8B3
+> 名称: IPRadar5.zip   
+> 大小: 5461899 字节 (5333 KiB)   
+> SHA256: BC130D60AE9EB413C254F145B64A38BF8A6B22D24189DD50B8BE7ABA682BB8B3   
 
 ## **MSI Afterburner**
 
@@ -88,9 +88,9 @@ https://www.msi.com/page/afterburner
 
 [NetSpeedMonitorX64.rar](https://github.com/antatura/WindowsTools/blob/master/Tools/NetSpeedMonitorX64.rar)
 
-> 名称: NetSpeedMonitorX64.rar
-> 大小: 550782 字节 (537 KiB)
-> SHA256: 4F2841B9F97C5B0B815287273EBDEC8AFD6165D2C6C4BF19F6A4D7D8B7E59F39
+> 名称: NetSpeedMonitorX64.rar   
+> 大小: 550782 字节 (537 KiB)   
+> SHA256: 4F2841B9F97C5B0B815287273EBDEC8AFD6165D2C6C4BF19F6A4D7D8B7E59F39   
 
 ## **Office Tool Plus**
 
@@ -126,9 +126,9 @@ http://www.angusj.com/resourcehacker/
 
 [ResourceHacker.5.1.1.CN.7z](https://github.com/antatura/WindowsTools/blob/master/Tools/ResourceHacker.5.1.1.CN.7z)
 
-> 名称: ResourceHacker.5.1.1.CN.7z
-> 大小: 1477786 字节 (1443 KiB)
-> SHA256: 4B5C5DBA9CC152CCD0F4D043003C6CDE268057E3F1D2C630345F80BC02DFB58C
+> 名称: ResourceHacker.5.1.1.CN.7z   
+> 大小: 1477786 字节 (1443 KiB)   
+> SHA256: 4B5C5DBA9CC152CCD0F4D043003C6CDE268057E3F1D2C630345F80BC02DFB58C   
 
 ## **Rufus**
 
@@ -156,9 +156,9 @@ https://github.com/mayunbaba2/SSTap-beta-setup
 
 [SSTap-beta-setup-1.0.9.7.exe.7z](https://github.com/antatura/WindowsTools/blob/master/Tools/SSTap-beta-setup-1.0.9.7.exe.7z)
 
-> 名称: SSTap-beta-setup-1.0.9.7.exe.7z
-> 大小: 6954829 字节 (6791 KiB)
-> SHA256: ED2821277A0521F51A0C8B983641F2D77980E1E316C9E455F7ED03C2D697839B
+> 名称: SSTap-beta-setup-1.0.9.7.exe.7z   
+> 大小: 6954829 字节 (6791 KiB)   
+> SHA256: ED2821277A0521F51A0C8B983641F2D77980E1E316C9E455F7ED03C2D697839B   
 
 ## **TranslucentTB**
 
