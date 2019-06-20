@@ -170,7 +170,17 @@ https://github.com/mayunbaba2/SSTap-beta-setup
 
 > 名称: SSTap-beta-setup-1.0.9.7.exe.7z   
 > 大小: 6954829 字节 (6791 KiB)   
-> SHA256: ED2821277A0521F51A0C8B983641F2D77980E1E316C9E455F7ED03C2D697839B   
+> SHA256: ED2821277A0521F51A0C8B983641F2D77980E1E316C9E455F7ED03C2D697839B  
+
+## **TinyTask**
+
+⭐记录和重复鼠标动作
+
+https://www.tinytask.net/
+
+> 名称: tinytask_1.5汉化版_SHA256_B35C.exe   
+> 大小: 33792 字节 (33 KiB)   
+> SHA256: 2C700BE60253507965913E2330BCB3658CF1662608B7E1225009C05B7019B35C   
 
 ## **TranslucentTB**
 
@@ -195,6 +205,8 @@ https://github.com/lltcggie/waifu2x-caffe
 ⭐生成文件目录树
 
 https://zyhh.me/delphi/zdirtree.html
+
+https://github.com/antatura/WindowsTools/blob/master/Tools/zDirTree.zip
 
 > 名称: zDirTree.zip   
 > 大小: 279211 字节 (272 KiB)   
