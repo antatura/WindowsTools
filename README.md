@@ -34,6 +34,18 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/DefaultProgramsEditor
 > 大小: 1072780 字节 (1047 KiB)  
 > SHA256: D84E0588289A661E796C761CC40BA3CB53A7824D955A8C260E2AC9F74B77B827  
 
+## **DriverView**
+
+⭐显示系统上当前加载的所有驱动程序列表
+
+https://www.nirsoft.net/utils/driverview.html
+
+https://github.com/antatura/WindowsTools/blob/master/Tools/driverview-x64-zhCN.zip
+
+> 名称: DriverView.exe (1.4.7.14)  
+> 大小: 95328 字节 (93 KiB)  
+> SHA256: 103A608C796D4CA9DA28C247ED1CCD14BF69D4A6CFED8E8EFDC95DF900A892F7  
+
 ## **Duplicate Cleaner**
 
 ⭐重复文件查找与管理
