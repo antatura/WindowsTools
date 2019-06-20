@@ -58,6 +58,18 @@ https://www.duplicatecleaner.com/ 或 *Microsoft Store*
 
 https://www.voidtools.com/
 
+## **FileTypesMan**
+
+⭐显示，编辑和删除计算机上注册的文件扩展名和类型
+
+https://www.nirsoft.net/utils/file_types_manager.html
+
+https://github.com/antatura/WindowsTools/blob/master/Tools/filetypesman-x64-zhCN.zip
+
+> 名称: FileTypesMan.exe (1.8.5.0)  
+> 大小: 170192 字节 (166 KiB)  
+> SHA256: 52E0C7BA9B5A7A20536589103423F372545411E196212DC4B77C19B584342E1A  
+
 ## **Fliqlo**
 
 ⭐黑白时钟屏保
