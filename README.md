@@ -22,6 +22,18 @@ https://dl.google.com/release2/h8vnfiy7pvn3lxy9ehfsaxlrnnukgff8jnodrp0y21vrlem4x
 > 大小: 45001120 字节 (42 MiB)   
 > SHA256: 6557A26B9FF6185D2E215CCAF3D64D80A0E65C69AC23A091FC050612724908B8   
 
+## **DefaultProgramsEditor**
+
+⭐修改Windows中的文件关联设置，包括上下文菜单项，图标和说明
+
+http://defaultprogramseditor.com
+
+https://github.com/antatura/WindowsTools/blob/master/Tools/DefaultProgramsEditor.zip
+
+> 名称: DefaultProgramsEditor.zip  
+> 大小: 1072780 字节 (1047 KiB)  
+> SHA256: D84E0588289A661E796C761CC40BA3CB53A7824D955A8C260E2AC9F74B77B827  
+
 ## **Duplicate Cleaner**
 
 ⭐重复文件查找与管理
