@@ -40,6 +40,16 @@ https://www.voidtools.com/
 
 https://fliqlo.com/
 
+## **Hash.reg**
+
+⭐添加右键哈希值校验
+
+https://github.com/antatura/WindowsTools/blob/master/Tools/Hash.reg
+
+> 名称: Hash.reg   
+> 大小: 2683 字节 (2 KiB)   
+> SHA256: 37F5B58C3D584E8D885F0302749AF49356288563EAC2D5C1767BCE9692149C42   
+
 ## **HiddeX**
 
 ⭐通过快捷键隐藏或显示选定的窗口
@@ -177,6 +187,8 @@ https://github.com/mayunbaba2/SSTap-beta-setup
 ⭐记录和重复鼠标动作
 
 https://www.tinytask.net/
+
+https://github.com/antatura/WindowsTools/blob/master/Tools/tinytask_1.5%E6%B1%89%E5%8C%96%E7%89%88_SHA256_B35C.exe
 
 > 名称: tinytask_1.5汉化版_SHA256_B35C.exe   
 > 大小: 33792 字节 (33 KiB)   
