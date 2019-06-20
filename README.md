@@ -10,6 +10,18 @@ https://www.advancedrenamer.com/
 
 https://www.ipip.net/product/client.html
 
+## **Chrome 49.0.2623.112**
+
+历史日志: https://gist.github.com/ThinkZ/5080df1adf2ad987a36a0cb8feb24fd7
+
+[49.0.2623.112_chrome_installer.exe](https://github.com/antatura/WindowsTools/tree/master/Tools/49.0.2623.112_chrome_installer)
+
+https://dl.google.com/release2/h8vnfiy7pvn3lxy9ehfsaxlrnnukgff8jnodrp0y21vrlem4x71lor5zzkliyh8fv3sryayu5uk5zi20ep7dwfnwr143dzxqijv/49.0.2623.112_chrome_installer.exe
+
+> 名称: 49.0.2623.112_chrome_installer.exe   
+> 大小: 45001120 字节 (42 MiB)   
+> SHA256: 6557A26B9FF6185D2E215CCAF3D64D80A0E65C69AC23A091FC050612724908B8   
+
 ## **Duplicate Cleaner**
 
 ⭐重复文件查找与管理
