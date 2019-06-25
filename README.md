@@ -76,6 +76,18 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/filetypesman-x64-zhCN
 
 https://fliqlo.com/
 
+## **Fritz Chess Benchmarks**
+
+⭐CPU性能测试
+
+http://www.jens-hartmann.at/Fritzmarks/
+
+https://github.com/antatura/WindowsTools/blob/master/Tools/Fritz%20Chess%20Benchmark.zip
+
+> 名称: Fritz Chess Benchmark.zip（4.3）   
+> 大小: 159918 字节 (156 KiB)   
+> SHA256: 2B4861DF1C81C3949915CE8FA1FA7C0BE920E0551402E73E74099800B174D7B8   
+
 ## **Hash.reg**
 
 ⭐添加右键哈希值校验
