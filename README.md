@@ -52,6 +52,8 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/driverview-x64-zhCN.z
 
 https://www.duplicatecleaner.com/ 或 *Microsoft Store* (Free)
 
+https://github.com/antatura/WindowsTools/blob/master/Tools/DuplicateCleanerPro_4.1.0.2.rar  
+
 > 名称: DuplicateCleanerPro_4.1.0.2.rar  
 > 大小: 12147402 字节 (11 MiB)  
 > SHA256: DA6E561CE1435D22E8F3461DB2C96D6FC3AFAB4B7CF0A04A8E27B34BBF6F09D8  
