@@ -22,6 +22,12 @@ https://dl.google.com/release2/h8vnfiy7pvn3lxy9ehfsaxlrnnukgff8jnodrp0y21vrlem4x
 > 大小: 45001120 字节 (42 MiB)   
 > SHA256: 6557A26B9FF6185D2E215CCAF3D64D80A0E65C69AC23A091FC050612724908B8   
 
+## **CPDT Benchmark**
+
+⭐存储性能测试（多平台支持）
+
+https://maxim-saplin.github.io/cpdt_results/?lang=en&app=&about=
+
 ## **DefaultProgramsEditor**
 
 ⭐修改Windows中的文件关联设置，包括上下文菜单项，图标和说明
