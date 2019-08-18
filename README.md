@@ -164,6 +164,12 @@ http://www.ipneed.com/
 > 大小: 5461899 字节 (5333 KiB)   
 > SHA256: BC130D60AE9EB413C254F145B64A38BF8A6B22D24189DD50B8BE7ABA682BB8B3   
 
+## **Kodi**
+
+⭐家庭影院式媒体播放与管理（开源多平台支持）
+
+https://kodi.tv/
+
 ## **MSI Afterburner**
 
 ⭐显卡超频，游戏中显示帧数，CPU，GPU等参数
