@@ -4,6 +4,12 @@
 
 https://www.advancedrenamer.com/
 
+## **BEncode Editor**
+
+⭐Torrent种子编辑工具
+
+https://sites.google.com/site/ultimasites/bencode-editor
+
 ## **Best Trace 路由跟踪**
 
 ⭐从设备上发起 traceroute 请求，附带链路可视化
