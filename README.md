@@ -188,6 +188,18 @@ https://kodi.tv/
 
 https://www.msi.com/page/afterburner
 
+## **MSVBCRT AIO**
+
+⭐微软运行库合集
+
+https://www.repaik.com/thread-53948-1-1.html
+
+>https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads
+
+>名称: MSVBCRT.AIO.2019.07.20.X86X64.exe      
+>大小: 36852474 字节 (35 MiB)      
+>SHA1: 707E54FAA545B9C3ED3AC38741DA427BD3BECD57       
+
 ## **NetSpeedMonitor**
 
 ⭐状态栏网速显示工具
