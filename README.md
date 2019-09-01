@@ -196,6 +196,8 @@ https://www.repaik.com/thread-53948-1-1.html
 
 >https://support.microsoft.com/zh-cn/help/2977003/the-latest-supported-visual-c-downloads
 
+https://drive.google.com/open?id=1hG2iXKcuXWIoGBWkj3Uct_ta5da9hrkG
+
 >名称: MSVBCRT.AIO.2019.07.20.X86X64.exe      
 >大小: 36852474 字节 (35 MiB)      
 >SHA1: 707E54FAA545B9C3ED3AC38741DA427BD3BECD57       
