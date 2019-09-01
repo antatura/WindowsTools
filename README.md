@@ -10,6 +10,12 @@ https://www.advancedrenamer.com/
 
 https://sites.google.com/site/ultimasites/bencode-editor
 
+https://github.com/antatura/WindowsTools/blob/master/Tools/bencode-editor.0710u.zip
+
+>名称: bencode-editor.0710u.zip        
+>大小: 307347 字节 (300 KiB)       
+>SHA256: 63027F8B9A9320DF2B9C20CC8885063BDD15A707AC77AA95673263A11DCDC454       
+
 ## **Best Trace 路由跟踪**
 
 ⭐从设备上发起 traceroute 请求，附带链路可视化
