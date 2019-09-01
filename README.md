@@ -10,7 +10,7 @@ https://www.advancedrenamer.com/
 
 https://sites.google.com/site/ultimasites/bencode-editor
 
-https://github.com/antatura/WindowsTools/blob/master/Tools/bencode-editor.0710u.zip
+[bencode-editor.0710u.zip](https://github.com/antatura/WindowsTools/blob/master/Tools/bencode-editor.0710u.zip)
 
 >名称: bencode-editor.0710u.zip        
 >大小: 307347 字节 (300 KiB)       
