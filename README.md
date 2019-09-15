@@ -304,6 +304,12 @@ https://github.com/TranslucentTB/TranslucentTB/releases 或 *Microsoft Store*
 
 https://github.com/zhongyang219/TrafficMonitor
 
+## **Typora**
+
+⭐Markdown 编辑器
+
+https://typora.io/
+
 ## **Waifu2x-Caffe**
 
 ⭐二次元图片的无损放大、降噪
