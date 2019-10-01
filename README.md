@@ -310,6 +310,12 @@ https://github.com/zhongyang219/TrafficMonitor
 
 https://typora.io/
 
+## **USB Flash Drive Tester**
+
+⭐U盘健康度检测
+
+https://www.vconsole.com/download
+
 ## **Waifu2x-Caffe**
 
 ⭐二次元图片的无损放大、降噪
