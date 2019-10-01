@@ -188,6 +188,16 @@ https://kodi.tv/
 
 https://mediaarea.net/en/MediaInfo/Download/Windows
 
+## **Microsoft Joulemeter**
+
+⭐电源功耗分析
+
+https://www.microsoft.com/en-us/research/project/joulemeter-computational-energy-measurement-and-optimization/
+
+名称: JoulemeterSetup.msi  
+大小: 944128 字节 (922 KiB)  
+SHA256: C4F7157E19B3E263DCB469BCF97136E6BD7EE585BF284120AE53431C155E5900
+
 ## **MSI Afterburner**
 
 ⭐显卡超频，游戏中显示帧数，CPU，GPU等参数
