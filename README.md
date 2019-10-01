@@ -182,6 +182,12 @@ http://www.ipneed.com/
 
 https://kodi.tv/
 
+## **MediaInfo**
+
+⭐查看视频文件参数信息
+
+https://mediaarea.net/en/MediaInfo/Download/Windows
+
 ## **MSI Afterburner**
 
 ⭐显卡超频，游戏中显示帧数，CPU，GPU等参数
