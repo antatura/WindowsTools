@@ -28,6 +28,12 @@ https://www.ipip.net/product/client.html
 
 https://ftp.isc.org/isc/bind9/9.8.8    
 
+## **BlueScreenView**
+
+⭐Windows蓝屏分析
+
+https://www.nirsoft.net/utils/blue_screen_view.html
+
 ## **Chrome 49.0.2623.112**
 
 历史日志: https://gist.github.com/ThinkZ/5080df1adf2ad987a36a0cb8feb24fd7
