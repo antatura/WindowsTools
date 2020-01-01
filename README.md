@@ -352,6 +352,26 @@ https://www.vconsole.com/download
 
 https://github.com/lltcggie/waifu2x-caffe
 
+## **WebBrowserPassView**
+
+⭐本地浏览器已保存密码查看与导出
+
+https://www.nirsoft.net/utils/web_browser_password.html
+
+[HTML示例](https://github.com/antatura/WindowsTools/blob/master/Example/WebBrowserPassView-report-2020.01.01_12.57.html)
+
+https://github.com/antatura/WindowsTools/blob/master/Tools/webbrowserpassview.zip
+
+解压密码：wbpv28821@
+
+> Name: webbrowserpassview.zip (Version 1.94)
+> Size: 288466 bytes (281 KiB)
+> SHA256: 6C8F95029BB269FB21941886EE82E02C7AD039E7B9073BE622355556751789CF
+
+> Name: WebBrowserPassView.exe (Version 1.94)
+> Size: 462848 bytes (452 KiB)
+> SHA256: FEB9EAB26F6FF11E16058D39FB07A4CDE5F7E2FD96D2AE49804B909B9FA6E8DB
+
 ## **zDirTree**
 
 ⭐生成文件目录树
