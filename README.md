@@ -364,13 +364,13 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/webbrowserpassview.zi
 
 解压密码：wbpv28821@
 
-> Name: webbrowserpassview.zip (Version 1.94)
-> Size: 288466 bytes (281 KiB)
-> SHA256: 6C8F95029BB269FB21941886EE82E02C7AD039E7B9073BE622355556751789CF
+> Name: webbrowserpassview.zip (Version 1.94)   
+> Size: 288466 bytes (281 KiB)   
+> SHA256: 6C8F95029BB269FB21941886EE82E02C7AD039E7B9073BE622355556751789CF   
 
-> Name: WebBrowserPassView.exe (Version 1.94)
-> Size: 462848 bytes (452 KiB)
-> SHA256: FEB9EAB26F6FF11E16058D39FB07A4CDE5F7E2FD96D2AE49804B909B9FA6E8DB
+> Name: WebBrowserPassView.exe (Version 1.94)   
+> Size: 462848 bytes (452 KiB)   
+> SHA256: FEB9EAB26F6FF11E16058D39FB07A4CDE5F7E2FD96D2AE49804B909B9FA6E8DB   
 
 ## **zDirTree**
 
