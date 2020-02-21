@@ -212,6 +212,12 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/JoulemeterSetup.msi
 > 大小: 944128 字节 (922 KiB)  
 > SHA256: C4F7157E19B3E263DCB469BCF97136E6BD7EE585BF284120AE53431C155E5900
 
+## **MyDiskTest**
+
+⭐U盘检测工具
+
+[【示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/Snipaste_2020.02.21_09.30.png)
+
 ## **MSI Afterburner**
 
 ⭐显卡超频，游戏中显示帧数，CPU，GPU等参数
