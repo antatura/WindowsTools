@@ -216,15 +216,15 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/JoulemeterSetup.msi
 
 ⭐U盘检测工具
 
-[【示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/Snipaste_2020.02.21_09.30.png)
+[【示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/Snipaste_2020.02.22_22.04.png)
 
 http://www.flashdrive-repair.com/2017/08/download-all-mydisktest-software.html
 
-https://github.com/antatura/WindowsTools/blob/master/Tools/mydisktest%20V3.00%20Alpha3.rar
+https://github.com/antatura/WindowsTools/blob/master/Tools/mydisktest%20V2.98.rar
 
-> 名称: mydisktest V3.00 Alpha3.exe  
-> 大小: 174080 字节 (170 KiB)  
-> SHA256: 5773F2F8355F34BC9776160942DC9482F95C980EE71973FFA8B37DA62238FD6E  
+> 名称: mydisktest V2.98.exe  
+> 大小: 83968 字节 (82 KiB)  
+> SHA256: E9D93681D59E6C91F28B7AB0DE27E38E96689AA1011F724668B4DD0AD83587B3  
 
 ## **MSI Afterburner**
 
