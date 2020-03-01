@@ -312,6 +312,22 @@ https://zh.snipaste.com/ 或 *Microsoft Store*
 
 http://www.uderzo.it/main_products/space_sniffer/
 
+## **Spek**
+
+⭐绘制音频频谱
+
+[【示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/p1.aac.png)
+
+http://spek.cc/
+
+https://github.com/alexkay/spek
+
+https://github.com/antatura/WindowsTools/blob/master/Tools/spek-0.8.2.msi
+
+> 名称: spek-0.8.2.msi  
+> 大小: 8880640 字节 (8672 KiB)  
+> SHA256: 0FA1237597E9B1C966DF5701BC0A3DB88A7545C56F468BF6A21215ED4ABEA693  
+
 ## **SSTap 1.0.9.7**
 
 ⭐利用虚拟网卡技术实现全局代理，或以规则形式代理某个软件
