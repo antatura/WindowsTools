@@ -322,6 +322,8 @@ http://spek.cc/
 
 https://github.com/alexkay/spek
 
+[【帮助文档】](http://spek.cc/man-0.8.2.html)
+
 https://github.com/antatura/WindowsTools/blob/master/Tools/spek-0.8.2.msi
 
 > 名称: spek-0.8.2.msi  
