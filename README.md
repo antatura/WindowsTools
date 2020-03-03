@@ -120,9 +120,9 @@ https://fliqlo.com/
 
 https://github.com/antatura/WindowsTools/blob/master/Tools/fliqlo_133.zip
 
-> 名称: fliqlo_133.zip
-> 大小: 3804811 字节 (3715 KiB)
-> SHA256: 91F820D415E62E314A00288BDC3798FE3DFEBF6E40D1A57DFD66484CF4EE542F
+> 名称: fliqlo_133.zip  
+> 大小: 3804811 字节 (3715 KiB)  
+> SHA256: 91F820D415E62E314A00288BDC3798FE3DFEBF6E40D1A57DFD66484CF4EE542F  
 
 ## **Fritz Chess Benchmarks**
 
