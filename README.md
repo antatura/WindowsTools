@@ -4,6 +4,12 @@
 
 https://www.advancedrenamer.com/
 
+## **All in One Runtimes**
+
+⭐运行库
+
+https://www.sereby.org/site/downloads/All%20in%20One%20Runtimes
+
 ## **ArcTime Pro**
 
 ⭐字幕制作，语音识别
