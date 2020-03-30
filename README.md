@@ -38,7 +38,21 @@ https://www.ipip.net/product/client.html
 
 ⭐dig dns for windows
 
-https://ftp.isc.org/isc/bind9/9.8.8    
+https://ftp.isc.org/isc/bind9/9.8.8
+
+## **Bitrate Viewer**
+
+⭐视频码率图表
+
+[【示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/Snipaste_2020.03.31_04.05_BitrateViewer.png)
+
+https://www.videohelp.com/software/Bitrate-Viewer-2
+
+https://github.com/antatura/WindowsTools/blob/master/Tools/BitrateViewerSetup23.exe
+
+> 名称: BitrateViewerSetup23.exe  
+> 大小: 5172303 字节 (5051 KiB)  
+> SHA256: 9FA13C5A55E2C8FD66F6DB62D9C1E8948A494323626B08057410F595682E257D  
 
 ## **BlueScreenView**
 
