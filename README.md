@@ -238,6 +238,12 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/JoulemeterSetup.msi
 > 大小: 944128 字节 (922 KiB)  
 > SHA256: C4F7157E19B3E263DCB469BCF97136E6BD7EE585BF284120AE53431C155E5900
 
+## **Mp3tag**
+
+⭐编辑音乐metadata
+
+https://www.mp3tag.de/
+
 ## **MyDiskTest**
 
 ⭐U盘检测工具
