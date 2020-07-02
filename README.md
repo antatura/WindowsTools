@@ -16,6 +16,14 @@ https://www.sereby.org/site/downloads/All%20in%20One%20Runtimes
 
 https://arctime.org/
 
+## **BaiduPCS-Go**
+
+[BaiduPCS-Go-v3.6.2-windows-x64](https://github.com/antatura/WindowsTools/blob/master/Tools/BaiduPCS-Go-v3.6.2-windows-x64.zip)
+
+> 名称: BaiduPCS-Go.exe  
+> 大小: 9853952 字节 (9623 KiB)  
+> SHA256: 63493CCE081088DA7454CC32B3BFC9F007F31016E3B0BD120073C2F7B1A09AFF  
+
 ## **BEncode Editor**
 
 ⭐Torrent种子编辑工具
@@ -24,9 +32,9 @@ https://sites.google.com/site/ultimasites/bencode-editor
 
 [bencode-editor.0710u.zip](https://github.com/antatura/WindowsTools/blob/master/Tools/bencode-editor.0710u.zip)
 
->名称: bencode-editor.0710u.zip        
->大小: 307347 字节 (300 KiB)       
->SHA256: 63027F8B9A9320DF2B9C20CC8885063BDD15A707AC77AA95673263A11DCDC454       
+> 名称: bencode-editor.0710u.zip        
+> 大小: 307347 字节 (300 KiB)       
+> SHA256: 63027F8B9A9320DF2B9C20CC8885063BDD15A707AC77AA95673263A11DCDC454       
 
 ## **Best Trace 路由跟踪**
 
