@@ -420,6 +420,18 @@ https://typora.io/
 
 https://www.vconsole.com/download
 
+## **uTorrent 2.0.4 build 22967**
+
+⭐uTorrent 经典版本+简中语言文件
+
+https://github.com/antatura/WindowsTools/blob/master/Tools/uTorrent%202.0.4.22967.zip
+
+> 名称: uTorrent.exe  
+> 大小: 328568 字节 (320 KiB)  
+> SHA256: 8439F7ED52AED8E32118AA164BF5048525BB5350CC8207F3FE69B5245D599679 
+
+将 uTorrent.lng 置于 %APPDATA%\uTorrent 以启用简中界面
+
 ## **Waifu2x-Caffe**
 
 ⭐二次元图片的无损放大、降噪
