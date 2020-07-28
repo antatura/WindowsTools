@@ -86,6 +86,12 @@ https://dl.google.com/release2/h8vnfiy7pvn3lxy9ehfsaxlrnnukgff8jnodrp0y21vrlem4x
 
 https://maxim-saplin.github.io/cpdt_results/?lang=en&app=&about=
 
+## **CUETools**
+
+⭐无损音轨转换与验证
+
+http://cue.tools/wiki/Main_Page
+
 ## **DefaultProgramsEditor**
 
 ⭐修改Windows中的文件关联设置，包括上下文菜单项，图标和说明
