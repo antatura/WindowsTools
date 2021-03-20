@@ -24,6 +24,13 @@ https://arctime.org/
 > 大小: 9853952 字节 (9623 KiB)  
 > SHA256: 63493CCE081088DA7454CC32B3BFC9F007F31016E3B0BD120073C2F7B1A09AFF  
 
+
+## **BBdoc**
+
+⭐文档内容搜索
+
+http://www.bbdoc.cn/
+
 ## **BEncode Editor**
 
 ⭐Torrent种子编辑工具
