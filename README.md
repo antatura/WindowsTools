@@ -141,6 +141,14 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/DuplicateCleanerPro_4
 
 https://www.voidtools.com/
 
+## **Fido**
+
+⭐下载 Windows 10 官方ISO文件
+
+https://github.com/pbatard/Fido
+
+https://github.com/antatura/WindowsTools/blob/master/Tools/Fido.ps1
+
 ## **FileTypesMan**
 
 ⭐显示，编辑和删除计算机上注册的文件扩展名和类型
