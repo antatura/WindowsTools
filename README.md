@@ -493,6 +493,14 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/zDirTree.zip
 > zDirTree.exe  SHA256: eada01807550ed1ee91d9ee214ab74eded20afae744a09bef00a1fbb6569285f   
 
 
+## **ZoomIt**
+
+⭐屏幕缩放和注释工具
+
+https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit
+
+
+
 #########################################
 
 
