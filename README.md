@@ -307,7 +307,13 @@ https://drive.google.com/open?id=1hG2iXKcuXWIoGBWkj3Uct_ta5da9hrkG
 
 >名称: MSVBCRT.AIO.2019.07.20.X86X64.exe      
 >大小: 36852474 字节 (35 MiB)      
->SHA1: 707E54FAA545B9C3ED3AC38741DA427BD3BECD57       
+>SHA1: 707E54FAA545B9C3ED3AC38741DA427BD3BECD57     
+
+## **NetBScanner**
+
+⭐扫描局域网内所有主机
+
+https://www.nirsoft.net/utils/netbios_scanner.html
 
 ## **NetSpeedMonitor**
 
