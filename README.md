@@ -349,6 +349,12 @@ https://pooi.moe/QuickLook/ 或 *Microsoft Store*
 
 https://rainbow-folders.en.softonic.com/
 
+## **Real-ESRGAN**
+
+⭐超分辨率放大插画图片
+
+https://github.com/xinntao/Real-ESRGAN
+
 ## **Resource Hacker**
 
 ⭐Windows可执行文件和资源文件查看、修改、重命名、添加、删除和提取工具
