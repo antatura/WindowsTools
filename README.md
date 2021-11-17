@@ -257,6 +257,12 @@ https://kodi.tv/
 
 https://mediaarea.net/en/MediaInfo/Download/Windows
 
+## **MemTest86**
+
+⭐内存诊断
+
+https://www.memtest86.com/
+
 ## **Microsoft Joulemeter**
 
 ⭐电源功耗分析
