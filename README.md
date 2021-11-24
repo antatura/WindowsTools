@@ -453,11 +453,19 @@ https://github.com/zhongyang219/TrafficMonitor
 
 https://typora.io/
 
-## **USB Flash Drive Tester**
+## **USBDeview**
 
 ⭐U盘健康度检测
 
 https://www.vconsole.com/download
+
+## **USB Flash Drive Tester**
+
+⭐USB设备信息查看
+
+https://www.nirsoft.net/utils/usb_devices_view.html
+
+[USBDeview_CHS v3.02](https://github.com/antatura/WindowsTools/blob/master/Tools/usbdeview-x64.zip)
 
 ## **uTorrent 2.0.4 build 22967**
 
