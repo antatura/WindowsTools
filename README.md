@@ -397,7 +397,7 @@ http://www.uderzo.it/main_products/space_sniffer/
 
 ⭐绘制音频频谱
 
-[【示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/p1.aac.png)
+[【Spek示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/p1.aac.png)
 
 http://spek.cc/
 
@@ -459,7 +459,7 @@ https://typora.io/
 
 https://github.com/antatura/WindowsTools/blob/master/Tools/urwtest_v18.exe
 
-![urwtest截图](https://i.loli.net/2021/11/28/1ZT9xL5b8PaRSit.png)
+[【urwtest示例图】](https://i.loli.net/2021/11/28/1ZT9xL5b8PaRSit.png)
 
 ## **USB Flash Drive Tester**
 
