@@ -59,7 +59,7 @@ https://ftp.isc.org/isc/bind9/9.8.8
 
 ⭐视频码率图表
 
-[【示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/Snipaste_2020.03.31_04.05_BitrateViewer.png)
+[【Bitrate Viewer 示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/Snipaste_2020.03.31_04.05_BitrateViewer.png)
 
 https://www.videohelp.com/software/Bitrate-Viewer-2
 
@@ -285,7 +285,7 @@ https://www.mp3tag.de/
 
 ⭐U盘检测工具
 
-[【示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/Snipaste_2020.02.22_22.04.png)
+[【MyDiskTest 示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/Snipaste_2020.02.22_22.04.png)
 
 http://www.flashdrive-repair.com/2017/08/download-all-mydisktest-software.html
 
@@ -397,7 +397,7 @@ http://www.uderzo.it/main_products/space_sniffer/
 
 ⭐绘制音频频谱
 
-[【Spek示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/p1.aac.png)
+[【Spek 示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/p1.aac.png)
 
 http://spek.cc/
 
@@ -459,7 +459,7 @@ https://typora.io/
 
 https://github.com/antatura/WindowsTools/blob/master/Tools/urwtest_v18.exe
 
-[【urwtest示例图】](https://i.loli.net/2021/11/28/1ZT9xL5b8PaRSit.png)
+[【urwtest 示例图】](https://i.loli.net/2021/11/28/1ZT9xL5b8PaRSit.png)
 
 ## **USB Flash Drive Tester**
 
