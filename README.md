@@ -239,6 +239,8 @@ https://www.axialis.com/iconworkshop/
 
 http://www.iometer.org/doc/downloads.html
 
+[用户手册](http://ds.xusony.com:88/01.System%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7/%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/IOmeter%E6%B5%8B%E8%AF%95%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C.pdf)
+
 ## **IP雷达**
 
 ⭐流量信息，系统状态，程序网络连接，端口占用，IP流量查看工具
