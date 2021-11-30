@@ -231,7 +231,13 @@ https://www.axialis.com/iconworkshop/
 
 > 名称: ResChs.7z   
 > 大小: 461654 字节 (450 KiB)   
-> SHA256: 8CF6DBA587ED8A84C1CE9B28FDECD08237372990B8EA1B3CA1F27530FDF9CCB5   
+> SHA256: 8CF6DBA587ED8A84C1CE9B28FDECD08237372990B8EA1B3CA1F27530FDF9CCB5  
+
+## **IOmeter**
+
+⭐硬盘与网络测速
+
+http://www.iometer.org/doc/downloads.html
 
 ## **IP雷达**
 
