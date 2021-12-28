@@ -443,6 +443,13 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/tinytask_1.5%E6%B1%89
 > 大小: 33792 字节 (33 KiB)   
 > SHA256: 2C700BE60253507965913E2330BCB3658CF1662608B7E1225009C05B7019B35C   
 
+
+## **Total Uninstall**
+
+⭐管理程序的安装与卸载
+
+https://www.martau.com/
+
 ## **TranslucentTB**
 
 ⭐任务栏透明化
