@@ -16,6 +16,12 @@ https://www.sereby.org/site/downloads/All%20in%20One%20Runtimes
 
 https://arctime.org/
 
+## **Autoruns**
+
+⭐微软官方自启动与右键菜单管理
+
+https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
+
 ## **BaiduPCS-Go**
 
 [BaiduPCS-Go-v3.6.2-windows-x64](https://github.com/antatura/WindowsTools/blob/master/Tools/BaiduPCS-Go-v3.6.2-windows-x64.zip)
