@@ -555,6 +555,17 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/zDirTree.zip
 https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit
 
 
+## **手机扫码枪**
+
+⭐手机扫描二维码信息自动推送至电脑
+
+https://zhuanlan.zhihu.com/p/425096205
+
+https://wwx.lanzoui.com/b0c7zhlzi
+
+[手机扫码枪0.50.exe](https://github.com/antatura/WindowsTools/blob/master/Tools/%E6%89%8B%E6%9C%BA%E6%89%AB%E7%A0%81%E6%9E%AA0.50.exe)
+
+
 
 #########################################
 
