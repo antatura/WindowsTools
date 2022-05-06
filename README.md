@@ -239,6 +239,16 @@ https://www.axialis.com/iconworkshop/
 > 大小: 461654 字节 (450 KiB)   
 > SHA256: 8CF6DBA587ED8A84C1CE9B28FDECD08237372990B8EA1B3CA1F27530FDF9CCB5  
 
+
+## **ImageX**
+
+⭐部署VHD系统
+
+https://www.softpedia.com/get/Programming/Components-Libraries/Imagex-Winlib.shtml
+
+[wimlib-1.13.5-windows-x86_64-bin.zip](https://github.com/antatura/WindowsTools/blob/master/Tools/wimlib-1.13.5-windows-x86_64-bin.zip)
+
+
 ## **IOmeter**
 
 ⭐硬盘与网络测速
