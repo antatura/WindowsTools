@@ -385,6 +385,18 @@ https://rainbow-folders.en.softonic.com/
 
 https://github.com/xinntao/Real-ESRGAN
 
+
+## **Regshot**
+
+⭐比较注册表前后变化
+
+>  https://github.com/Seabreg/Regshot   
+>  若程序无响应，稍等片刻恢复正常
+
+[Regshot-1.9.0.7z](https://github.com/antatura/WindowsTools/blob/master/Tools/Regshot-1.9.0.7z)
+
+[Regshot-1.9.1-beta_r321.7z](https://github.com/antatura/WindowsTools/blob/master/Tools/Regshot-1.9.1-beta_r321.7z)
+
 ## **Resource Hacker**
 
 ⭐Windows可执行文件和资源文件查看、修改、重命名、添加、删除和提取工具
