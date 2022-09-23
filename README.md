@@ -490,6 +490,12 @@ https://github.com/TranslucentTB/TranslucentTB/releases 或 *Microsoft Store*
 
 https://github.com/zhongyang219/TrafficMonitor
 
+## **TrID**
+
+⭐通过幻数识别文件类型
+
+https://mark0.net/soft-trid-e.html
+
 ## **Typora**
 
 ⭐Markdown 编辑器
