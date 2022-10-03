@@ -107,7 +107,7 @@ http://cue.tools/wiki/Main_Page
 
 ## **Czkawka**
 
-查找重复文件、空目录、相似图像或视频等等
+⭐查找重复文件、空目录、相似图像或视频等等
 
 https://github.com/qarmin/czkawka
 
