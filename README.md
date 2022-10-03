@@ -105,6 +105,15 @@ https://maxim-saplin.github.io/cpdt_results/?lang=en&app=&about=
 
 http://cue.tools/wiki/Main_Page
 
+## **Czkawka**
+
+查找重复文件、空目录、相似图像或视频等等
+
+https://github.com/qarmin/czkawka
+
+![image](https://user-images.githubusercontent.com/47680985/193676095-6bf55965-a8e7-434d-bfd1-078a08bc197c.png)
+
+
 ## **DefaultProgramsEditor**
 
 ⭐修改Windows中的文件关联设置，包括上下文菜单项，图标和说明
