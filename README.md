@@ -111,7 +111,7 @@ http://cue.tools/wiki/Main_Page
 
 https://github.com/qarmin/czkawka
 
-![image](https://user-images.githubusercontent.com/47680985/193676095-6bf55965-a8e7-434d-bfd1-078a08bc197c.png)
+[【示例图】](https://user-images.githubusercontent.com/47680985/193676095-6bf55965-a8e7-434d-bfd1-078a08bc197c.png)
 
 
 ## **DefaultProgramsEditor**
