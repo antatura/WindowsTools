@@ -246,7 +246,7 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/Hash.reg
 > 大小: 2683 字节 (2 KiB)   
 > SHA256: 37F5B58C3D584E8D885F0302749AF49356288563EAC2D5C1767BCE9692149C42   
 
-[【升级版】](https://github.com/antatura/WindowsTools/blob/master/Tools/GetFileHash.reg)
+[【升级版 GetFileHash.reg】](https://github.com/antatura/WindowsTools/blob/master/Tools/GetFileHash.reg)
 
 
 
