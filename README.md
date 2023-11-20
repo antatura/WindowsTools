@@ -31,6 +31,20 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 > SHA256: 63493CCE081088DA7454CC32B3BFC9F007F31016E3B0BD120073C2F7B1A09AFF  
 
 
+## **Beyond Compare**
+
+⭐对比工具（文件夹、文本、表格、16进制、MP3、图片、注册表、版本）
+
+https://www.scootersoftware.com/download
+
+无限期试用：
+`rm "$env:appdata\Scooter Software\Beyond Compare 4\*.*" -Force -Confirm`
+`reg delete "HKCU\Software\Scooter Software\Beyond Compare 4" /v "CacheID" /f`
+
+> https://gist.github.com/rise-worlds/5a5917780663aada8028f96b15057a67
+
+
+
 ## **BBdoc**
 
 ⭐文档内容搜索
