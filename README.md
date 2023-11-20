@@ -4,11 +4,17 @@
 
 https://www.advancedrenamer.com/
 
+
+
+
 ## **All in One Runtimes**
 
 ⭐运行库
 
 https://www.sereby.org/site/downloads/All%20in%20One%20Runtimes
+
+
+
 
 ## **ArcTime Pro**
 
@@ -16,19 +22,16 @@ https://www.sereby.org/site/downloads/All%20in%20One%20Runtimes
 
 https://arctime.org/
 
+
+
+
 ## **Autoruns**
 
 ⭐微软官方自启动与右键菜单管理
 
 https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 
-## **BaiduPCS-Go**
 
-[BaiduPCS-Go-v3.6.2-windows-x64](https://github.com/antatura/WindowsTools/blob/master/Tools/BaiduPCS-Go-v3.6.2-windows-x64.zip)
-
-> 名称: BaiduPCS-Go.exe  
-> 大小: 9853952 字节 (9623 KiB)  
-> SHA256: 63493CCE081088DA7454CC32B3BFC9F007F31016E3B0BD120073C2F7B1A09AFF  
 
 
 ## **Beyond Compare**
@@ -38,10 +41,11 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 https://www.scootersoftware.com/download
 
 无限期试用：
-`rm "$env:appdata\Scooter Software\Beyond Compare 4\*.*" -Force -Confirm`
+`rm "$env:appdata\Scooter Software\Beyond Compare 4\*.*" -Force -Confirm`  
 `reg delete "HKCU\Software\Scooter Software\Beyond Compare 4" /v "CacheID" /f`
 
 > https://gist.github.com/rise-worlds/5a5917780663aada8028f96b15057a67
+
 
 
 
