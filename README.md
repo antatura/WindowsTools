@@ -86,7 +86,7 @@ https://ftp.isc.org/isc/bind9/9.8.8
 
 ⭐视频码率图表
 
-[【Bitrate Viewer 示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/Snipaste_2020.03.31_04.05_BitrateViewer.png)
+[【Bitrate Viewer 示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/BitrateViewer.png)
 
 https://www.videohelp.com/software/Bitrate-Viewer-2
 
@@ -147,7 +147,7 @@ http://cue.tools/wiki/Main_Page
 
 https://github.com/qarmin/czkawka
 
-[【示例图】](https://user-images.githubusercontent.com/47680985/193676095-6bf55965-a8e7-434d-bfd1-078a08bc197c.png)
+[【Czkawka 示例图】](https://user-images.githubusercontent.com/47680985/193676095-6bf55965-a8e7-434d-bfd1-078a08bc197c.png)
 
 
 
@@ -379,7 +379,7 @@ https://www.mp3tag.de/
 
 ⭐U盘检测工具
 
-[【MyDiskTest 示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/Snipaste_2020.02.22_22.04.png)
+[【MyDiskTest 示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/MyDiskTest.png)
 
 http://www.flashdrive-repair.com/2017/08/download-all-mydisktest-software.html
 
@@ -520,8 +520,6 @@ http://www.uderzo.it/main_products/space_sniffer/
 ## **Spek**
 
 ⭐绘制音频频谱
-
-[【Spek 示例图】](https://github.com/antatura/WindowsTools/blob/master/Images/p1.aac.png)
 
 http://spek.cc/
 
