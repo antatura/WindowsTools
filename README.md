@@ -123,6 +123,15 @@ https://dl.google.com/release2/h8vnfiy7pvn3lxy9ehfsaxlrnnukgff8jnodrp0y21vrlem4x
 
 
 
+## **CodeMade Clock**
+
+⭐Windows 时钟（可自定义皮肤）
+
+https://codemade.net/clock/
+
+
+
+
 ## **CPDT Benchmark**
 
 ⭐存储性能测试（多平台支持）
