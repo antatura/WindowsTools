@@ -203,6 +203,8 @@ https://github.com/antatura/WindowsTools/blob/master/Tools/DuplicateCleanerPro_4
 > 大小: 12147402 字节 (11 MiB)  
 > SHA256: DA6E561CE1435D22E8F3461DB2C96D6FC3AFAB4B7CF0A04A8E27B34BBF6F09D8  
 
+https://rutracker.org/forum/viewtopic.php?t=6671945
+
 
 
 
